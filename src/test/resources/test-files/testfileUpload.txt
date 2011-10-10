@@ -1,0 +1,3 @@
+This test file will be uploaded to the remote server.
+Then it is deleted from the remote server
+for the following upload test to work.
